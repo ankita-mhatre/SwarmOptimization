@@ -1,4 +1,4 @@
-# ParticleSwarmOptimization
+# Particle Swarm Optimization
 
 Optimizing Resource Scheduling in Cloud Computing using Particle Swarm Optimization
 
